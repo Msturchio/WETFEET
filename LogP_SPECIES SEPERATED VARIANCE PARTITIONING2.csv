@@ -1,0 +1,17 @@
+Group,LMA,Q10,Rmass,Rarea,spp,Group2
+Residual,50.53,86.54,55.14,88.32,spar,Residual
+MoYr,35.02,11.61,24.65,2.19,spar,MoYr
+MoYr:Site,14.44,0,13.6,9.08,spar,MoYr:Site
+MoYr:Site:Treatment,0,0,0,0,spar,Other
+MoYr:Treatment,0,0,0,0,spar,Other
+Site:Treatment,0,1.33,4.11,0,spar,Other
+Site,0,0,1.88,0,spar,Other
+Treatment,0,0.53,0.63,0.41,spar,Other
+Residual,52.19,64.4,57.07,61.22,germ,Residual
+MoYr,17.82,22.98,3.57,10.28,germ,MoYr
+MoYr:Site,10.79,1.94,32.45,22.97,germ,MoYr:Site
+Site,9.97,10.68,0,0,germ,Other
+MoYr:Site:Treatment,4.96,0,0,0,germ,Other
+Site:Treatment,4.27,0,6.76,1.08,germ,Other
+MoYr:Treatment,0,0,0,0,germ,Other
+Treatment,0,0,0.15,4.46,germ,Other
